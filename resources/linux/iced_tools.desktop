@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=iced_test
+Name=iced_test
+Icon=logo
+Categories=Tools;
